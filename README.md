@@ -7,6 +7,6 @@
     - TailwindCSS 
 
 # Objetivo do projeto
-  - Clonar a aplicação do Instagram como minha stack
+  - Clonar a aplicação do Instagram utilizando minha stack.
 
 ![Screenshot](foto.png)
