@@ -1,6 +1,6 @@
 # Clone Instragram for Dogs <3
 - 
-# Tecnologias utilizadas:
+# Tecnologias utilizadas
 
     - Laravel
     - VueJS
